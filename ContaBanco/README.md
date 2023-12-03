@@ -1,4 +1,4 @@
-# Relatório do Código - Conta Terminal
+# Relatório do Código - Conta Banco
 
 ## Descrição
 O código em Java representa um programa simples para criação de contas bancárias, onde o usuário é solicitado a inserir informações como número da conta corrente, agência bancária, nome do cliente e saldo bancário. O programa exibe uma mensagem confirmando a criação da conta e apresenta todos os dados fornecidos pelo usuário.
