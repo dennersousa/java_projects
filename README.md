@@ -1,10 +1,6 @@
 # Formação Java Developer
 
-Bem-vindo ao repositório "Formação Java Developer"! Aqui você encontrará todos os projetos e desafios relacionados à nossa formação em desenvolvimento Java. Este repositório serve como um guia abrangente para todos os aspectos práticos do aprendizado Java, abordando desde conceitos fundamentais até desafios mais avançados.
-
-## Visão Geral
-
-Esta formação é projetada para ajudar desenvolvedores a aprimorar suas habilidades em Java, proporcionando uma jornada completa desde os princípios básicos até tópicos avançados. Os projetos e desafios presentes neste repositório foram cuidadosamente selecionados para oferecer uma experiência prática abrangente.
+Bem-vindo ao repositório "Java Projects"! Aqui você encontrará todos os projetos e desafios relacionados aos meus estudos em desenvolvimento Java. Este repositório serve como um guia abrangente para todos os aspectos práticos do aprendizado Java, abordando desde conceitos fundamentais até desafios mais avançados.
 
 ## Estrutura do Repositório
 
