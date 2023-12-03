@@ -1,4 +1,4 @@
-# Formação Java Developer
+# Java Projects
 
 Bem-vindo ao repositório "Java Projects"! Aqui você encontrará todos os projetos e desafios relacionados aos meus estudos em desenvolvimento Java. Este repositório serve como um guia abrangente para todos os aspectos práticos do aprendizado Java, abordando desde conceitos fundamentais até desafios mais avançados.
 
