@@ -25,7 +25,7 @@ Cat Digital Bank is designed to manage various types of bank accounts for custom
 ## Prerequisites
 
 - Java Development Kit (JDK) installed
-- Integrated Development Environment (IDE) for Java (e.g., Eclipse, IntelliJ)
+- Integrated Development Environment (IDE) for Java (e.g., Eclipse, IntelliJ, VS Code)
 
 ## Getting Started
 
