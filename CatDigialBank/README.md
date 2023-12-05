@@ -21,7 +21,6 @@ Cat Digital Bank is designed to manage various types of bank accounts for custom
   - [6. `IAccount`](#6-iaccount)
   - [7. `Main`](#7-main)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
